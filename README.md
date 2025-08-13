@@ -1,1 +1,1 @@
-# Text-summarizer-end-to-end
+# TEXT summarizer-end-to-end
